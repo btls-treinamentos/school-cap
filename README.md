@@ -23,14 +23,11 @@ The extension is now available on Visual Studio Marketplace. To install it, proc
 
 ![image](https://user-images.githubusercontent.com/91032133/138568244-42539a9c-817c-4021-9095-2fa94e1c2353.png)
 
+### Nodejs and SQLite for Local Development
 
-### NPM Registry
+Install Node.js → 14.18.1 LTS
 
-The NPM packages for CDS are not part of the default NPM registry. As a consequence, you must configure your registry to lookup the packages in the SAP NPM registry. Enter the following command:
-
-```sh
-npm set @sap:registry=https://npm.sap.com
-```
+Install SQLite (only required on Windows).
 
 ### CDS Command Line Tools
 
