@@ -9,11 +9,20 @@ This project is a example application to explorer CAP - SAP Cloud Application Pr
 
 ### Development Environment
 
-I am using Visual Studio Code as local development environment. To get the language support for the CDS objects you must manually install the corresponding extension for Visual Studio Code.
-To install this extension, proceed as follows
+I am using Visual Studio Code as local development environment. To get the language support for the CDS objects you must manually install the corresponding extension for Visual Studio Code. To install this extension, proceed as follows
 
-1. Download the vsix file from [SAP Development Tools -> Cloud -> CDS Language Support for Visual Studio Code](https://tools.hana.ondemand.com/#cloud)
-2. Install the downloaded vsix file in Visual Studio Code using command Install from VSIX...
+### CDS Language Support for Visual Studio Code
+
+The Visual Studio Code extension features language support for the Core Data Services (CDS) language as used in the SAP Cloud Application Programming Model.
+
+The extension is now available on Visual Studio Marketplace. To install it, proceed as follows:
+
+1. Go to Visual Studio Marketplace.
+2. Choose Install and VS Code opens the details page for the extension.
+3. In VS Code choose Install to enable the extension.
+
+![image](https://user-images.githubusercontent.com/91032133/138568244-42539a9c-817c-4021-9095-2fa94e1c2353.png)
+
 
 ### NPM Registry
 
