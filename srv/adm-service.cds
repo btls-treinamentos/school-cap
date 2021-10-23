@@ -20,7 +20,7 @@ service AdminService  @(requires:'admin'){
       course: redirected to Courses,
    };
 
-   view StudentByCourses as SELECT  from school.Courses courseStudent{
+   view StudentByCourses as SELECT  from school.Courses as courseStudent{
 		key ID,
 		name, 
       classes.enrollments.student.name as studentName

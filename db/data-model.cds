@@ -31,7 +31,7 @@ entity Enrollments: managed{
 	key ID: UUID;
 	student: Association to Students;
 	class: Association to Classes;
-	Date: Date;
+	enrollmentDate: Date;
 }
 
 entity Classrooms: managed{
