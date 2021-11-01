@@ -12,9 +12,6 @@
         "hdbcalculationview": {
             "plugin_name": "com.sap.hana.di.calculationview"
         },
-        "hdbcds": {
-            "plugin_name": "com.sap.hana.di.cds"
-        },
         "hdbcollection": {
             "plugin_name": "com.sap.hana.di.collection"
         },
@@ -26,9 +23,6 @@
         },
         "hdbflowgraph": {
             "plugin_name": "com.sap.hana.di.flowgraph"
-        },
-        "hdbfulltextindex": {
-            "plugin_name": "com.sap.hana.di.fulltextindex"
         },
         "hdbfunction": {
             "plugin_name": "com.sap.hana.di.function"
@@ -99,24 +93,6 @@
         "hdbtabletype": {
             "plugin_name": "com.sap.hana.di.tabletype"
         },
-        "hdbtextconfig": {
-            "plugin_name": "com.sap.hana.di.textconfig"
-        },
-        "hdbtextdict": {
-            "plugin_name": "com.sap.hana.di.textdictionary"
-        },
-        "hdbtextinclude": {
-            "plugin_name": "com.sap.hana.di.textrule.include"
-        },
-        "hdbtextlexicon": {
-            "plugin_name": "com.sap.hana.di.textrule.lexicon"
-        },
-        "hdbtextminingconfig": {
-            "plugin_name": "com.sap.hana.di.textminingconfig"
-        },
-        "hdbtextrule": {
-            "plugin_name": "com.sap.hana.di.textrule"
-        },
         "hdbtrigger": {
             "plugin_name": "com.sap.hana.di.trigger"
         },
@@ -146,9 +122,6 @@
         },
         "hdbvirtualtableconfig": {
             "plugin_name": "com.sap.hana.di.virtualtable.config"
-        },
-        "jar": {
-            "plugin_name": "com.sap.hana.di.virtualfunctionpackage.hadoop"
         },
         "properties": {
             "plugin_name": "com.sap.hana.di.tabledata.properties"

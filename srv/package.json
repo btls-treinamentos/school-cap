@@ -3,12 +3,13 @@
     "description": "Generated from ../package.json, do not change!",
     "version": "1.0.0",
     "dependencies": {
-        "@sap/cds": "^3.21.x",
+        "@sap/cds": "^5.5.5",
         "express": "^4.17.1",
-        "hdb": "^0.17.1",
-        "@sap/xsenv": "^2.2.0",
-        "@sap/xssec": "^2.2.5",
-        "passport": "^0.4.1"
+        "hdb": "^0.19.0",
+        "@sap/xsenv": "^3.1.1",
+        "@sap/xssec": "^3.2.9",
+        "passport": "^0.4.1",
+        "@sap/cds-odata-v2-adapter-proxy": "^1.7.13"
     },
     "engines": {
         "node": "^12",
